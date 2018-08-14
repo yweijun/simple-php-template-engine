@@ -6,7 +6,7 @@
  * Time: 16:30
  */
 
-class TplEngine
+class tplEngine
 {
     private $data = array();    // 绑定数据
     // 配置
